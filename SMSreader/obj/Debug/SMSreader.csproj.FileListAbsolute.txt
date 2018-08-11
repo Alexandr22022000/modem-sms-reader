@@ -1,0 +1,10 @@
+C:\G\Project\VisualStudio\SMSreader\SMSreader\bin\Debug\SMSreader.exe.config
+C:\G\Project\VisualStudio\SMSreader\SMSreader\bin\Debug\SMSreader.exe
+C:\G\Project\VisualStudio\SMSreader\SMSreader\bin\Debug\SMSreader.pdb
+C:\G\Project\VisualStudio\SMSreader\SMSreader\bin\Debug\SMSPDULib.dll
+C:\G\Project\VisualStudio\SMSreader\SMSreader\bin\Debug\SMSPDULib.pdb
+C:\G\Project\VisualStudio\SMSreader\SMSreader\obj\Debug\SMSreader.csprojAssemblyReference.cache
+C:\G\Project\VisualStudio\SMSreader\SMSreader\obj\Debug\SMSreader.csproj.CoreCompileInputs.cache
+C:\G\Project\VisualStudio\SMSreader\SMSreader\obj\Debug\SMSreader.csproj.CopyComplete
+C:\G\Project\VisualStudio\SMSreader\SMSreader\obj\Debug\SMSreader.exe
+C:\G\Project\VisualStudio\SMSreader\SMSreader\obj\Debug\SMSreader.pdb
